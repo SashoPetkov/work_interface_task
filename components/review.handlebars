@@ -1,0 +1,28 @@
+<article>
+  <header>
+    <img src="../Img_and_icons/check.png" alt="check">
+    <h1>REVIEW/CONFIRM</h1>
+    <p>15</p>
+  </header>
+    {{#each review}}  
+      {{#if color-1}}
+        <div class="bordGreen">
+          <h3>{{this.description}}</h3>
+          <img src={{this.image}} alt="">
+        </div>
+      {{else if color-2}}
+        <div class="bordGrey">
+          <h3>{{this.description}}</h3>
+          <img src={{this.image}} alt="">
+        </div>
+      {{else}}
+        <div class="bordRed">
+          <h3>{{this.description}}</h3>
+          <img src={{this.image}} alt="">
+        </div>
+      {{/if}}
+    {{/each}}
+  <footer>
+    <h1>+ ADD TASK</h1>
+  </footer>
+</article>

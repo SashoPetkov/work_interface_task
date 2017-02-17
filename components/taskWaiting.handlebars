@@ -1,0 +1,28 @@
+<article>
+  <header>
+    <img src="../Img_and_icons/sandwatch.png" alt="sandwatch">
+    <h1>WAITING</h1>
+    <p>16</p>
+  </header>
+    {{#each waiting}}  
+      {{#if color-1}}
+        <div class="bordGreen">
+          <h3>{{this.description}}</h3>
+          <img src={{this.image}} alt="">
+        </div>
+      {{else if color-2}}
+        <div class="bordGrey">
+          <h3>{{this.description}}</h3>
+          <img src={{this.image}} alt="">
+        </div>
+      {{else}}
+        <div class="bordRed">
+          <h3>{{this.description}}</h3>
+          <img src={{this.image}} alt="">
+        </div>
+      {{/if}}
+    {{/each}}
+  <footer>
+    <h1>+ ADD TASK</h1>
+  </footer>
+</article>

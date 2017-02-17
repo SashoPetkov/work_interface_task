@@ -1,0 +1,11 @@
+{{#each list}}
+    <article>
+      <img src={{this.img}} alt="">
+      <h3>{{this.menu}}</h3>
+      {{#if this.color}} 
+        <p class="grey">{{this.number}}</p>
+        {{else}} <p>{{this.number}}</p>
+      {{/if}}
+    </article>
+{{/each}}
+        

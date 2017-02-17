@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+      <meta charset="UTF-8">
+      <meta name="author" content="Aleksandar Petkov">
+      <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+      <meta http-equiv="X-UA-Compatible" content="ie=edge">
+      <link rel="stylesheet" href="style/reset.css">
+      <link rel="stylesheet" href="style/style.css">
+      <link rel="icon" href="favicon-32x32.png">
+      <title>Task Dopamine</title>
+  </head>
+  <body>
+    <div id="wrapper">
+      <nav class="nav">
+      </nav>
+      <main>
+        <section class="static">
+          <h2>Lists</h2>
+          <section class="listItems">
+          </section>
+        </section>
+        <section class="fluid">
+          <h2>Tasks Board</h2>
+          <main>
+            <section class="containerOne">
+            </section>
+            <section class="containerTwo">
+            </section>
+            <section class="containerThree">
+            </section>
+          </main>
+        </section>
+      </main>
+    </div>
+
+    <script src="script/jquery-3.1.1.min.js"></script>
+    <script src="script/handlebars-v4.0.5.js"></script>
+
+    <script src="components/navBar-comp.js"></script>
+    <script src="script/navBar.js"></script>
+
+    <script src="components/list-comp.js"></script>
+    <script src="script/list.js"></script>
+
+    <script src="components/taskWaiting.js"></script>
+    <script src="script/taskWaiting.js"></script>
+
+    <script src="components/InProgress-comp.js"></script>
+    <script src="script/InProgress.js"></script>
+
+    <script src="components/review-comp.js"></script>
+    <script src="script/review.js"></script>
+    
+  </body>
+</html>

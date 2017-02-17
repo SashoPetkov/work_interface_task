@@ -1,0 +1,244 @@
+[ 
+  {
+    "info": [
+              {
+                "name": "Backlog"
+              },
+              {
+                "name": "Tasks"
+              },
+              {
+                "name": "Projects"
+              },
+              {
+                "name": "Log"
+              }    
+                
+            ]
+  },
+  {
+    "list": [
+              {
+                "img": "Img_and_icons/list.png",
+                "menu": "My Tasks",
+                "number": "12",
+                "color": false
+              },
+              {
+                "img": "Img_and_icons/checkList.png",
+                "menu": "Check list",
+                "number": "6",
+                "color": false
+              },
+              {
+                "img": "Img_and_icons/watching.png",
+                "menu": "Watching",
+                "number": "1",
+                "color": "grey"
+              },
+              {
+                "img": "Img_and_icons/team.png",
+                "menu": "Team Tasks",
+                "number": "14",
+                "color": "grey"
+              }
+            ]
+  },
+  {
+    "waiting": [
+                  {
+                    "color-1": "green",
+                    "description": "Unable to load game - request session",
+                    "image": "Img_and_icons/heroes1.jpg"
+                  },
+                  {
+                    "color-1": "green",
+                    "description": "Fullscreen btn doesn`t spread to full",
+                    "image": "Img_and_icons/heroes1.jpg"
+                  },
+                  {
+                    "color-1": "green",
+                    "description": "Reel can be tempered with before s",
+                    "image": "Img_and_icons/heroes1.jpg"
+                  },
+                  {
+                    "color-1": "green",
+                    "description": "Big Win and Bangup not positioned",
+                    "image": "Img_and_icons/heroes1.jpg"
+                  },
+                  {
+                    "color-1": "green",
+                    "description": "Winlines are misaligned (all)",
+                    "image": "Img_and_icons/heroes1.jpg"
+                  },
+                  {
+                    "color-1": "green",
+                    "description": "Spin swap tile misalignment (all)",
+                    "image": "Img_and_icons/heroes1.jpg"
+                  },
+                  {
+                    "color-1": "green",
+                    "description": "Hidden Dragon Revisions",
+                    "image": "Img_and_icons/heroes1.jpg"
+                  },
+                  {
+                    "color-1": "green",
+                    "description": "Swap tile 2 пъти на един и",
+                    "image": "Img_and_icons/heroes2.jpg"
+                  },
+                  {
+                    "color-1": "green",
+                    "description": "Може да се разместят рийлове със",
+                    "image": "Img_and_icons/heroes2.jpg"
+                  },
+                  {
+                    "color-1": "green",
+                    "description": "Fullscreen doesn`t spread reels (Chrc",
+                    "image": "Img_and_icons/heroes2.jpg"
+                  },
+                  {
+                    "color-1": "green",
+                    "description": "Символите премигват при драгван",
+                    "image": "Img_and_icons/heroes2.jpg"
+                  },
+                  {
+                    "color-1": "green",
+                    "description": "Game not scaled for iPhone",
+                    "image": "Img_and_icons/heroes2.jpg"
+                  },
+                  {
+                    "color-2": "grey",
+                    "description": "Debug pause button doesn`t unpaus",
+                    "image": "Img_and_icons/heroes2.jpg"
+                  },
+                  {
+                    "color-2": "grey",
+                    "description": "[Config reel on] doesn`t show confi",
+                    "image": "Img_and_icons/heroes2.jpg"
+                  },
+                  {
+                    "color-2": "grey",
+                    "description": "Nudge up/down misalignment (all)",
+                    "image": "Img_and_icons/heroes3.jpg"
+                  },
+                  {
+                    "color-2": "grey",
+                    "description": "Locked tile shadow",
+                    "image": "Img_and_icons/heroes3.jpg"
+                  }   
+                ]
+  },
+  {
+    "inProgres": [
+                  {
+                    "color-1": "green",
+                    "description": "Support multiple Reels Definition",
+                    "image": "Img_and_icons/heroes3.jpg"
+                  },
+                  {
+                    "color-1": "green",
+                    "description": "Autoplay disables bottombar bu",
+                    "image": "Img_and_icons/heroes3.jpg"
+                  },
+                  {
+                    "color-1": "green",
+                    "description": "Да се направят unit test-ове на",
+                    "image": "Img_and_icons/heroes3.jpg"
+                  },
+                  {
+                    "color-1": "green",
+                    "description": "Simbols Design",
+                    "image": "Img_and_icons/heroes2.jpg"
+                  },
+                  {
+                    "color-1": "green",
+                    "description": "Simbols Design",
+                    "image": "Img_and_icons/heroes2.jpg"
+                  },
+                  {
+                    "color-1": "green",
+                    "description": "Letter Symbols Designe",
+                    "image": "Img_and_icons/heroes2.jpg"
+                  }        
+                ]
+  },
+  {
+    "review": [
+                  {
+                    "color-1": "green",
+                    "description": "Use reel positions from backend",
+                    "image": "Img_and_icons/heroes2.jpg"
+                  },
+                  {
+                    "color-1": "green",
+                    "description": "Stop reels at correct position",
+                    "image": "Img_and_icons/heroes2.jpg"
+                  },
+                  {
+                    "color-1": "green",
+                    "description": "Config Reels Debug",
+                    "image": "Img_and_icons/heroes2.jpg"
+                  },
+                  {
+                    "color-1": "green",
+                    "description": "Popup tile should remove itself when",
+                    "image": "Img_and_icons/heroes2.jpg"
+                  },
+                  {
+                    "color-1": "green",
+                    "description": "Draw win lines dynamically",
+                    "image": "Img_and_icons/heroes2.jpg"
+                  },
+                  {
+                    "color-3": "red",
+                    "description": "Spin sound not play (Opera) &",
+                    "image": "Img_and_icons/heroes1.jpg"
+                  },
+                  {
+                    "color-3": "red",
+                    "description": "Bangup sound does not play (Opera",
+                    "image": "Img_and_icons/heroes1.jpg"
+                  },
+                  {
+                    "color-3": "red",
+                    "description": "Spin stop sound does not play (Ope",
+                    "image": "Img_and_icons/heroes1.jpg"
+                  },
+                  {
+                    "color-3": "red",
+                    "description": "Special tile animation not triggered",
+                    "image": "Img_and_icons/heroes2.jpg"
+                  },
+                  {
+                    "color-3": "red",
+                    "description": "Unable to get width prperty of reelsing",
+                    "image": "Img_and_icons/heroes2.jpg"
+                  },
+                  {
+                    "color-1": "green",
+                    "description": "When dragging and space key is preorm",
+                    "image": "Img_and_icons/heroes2.jpg"
+                  },
+                  {
+                    "color-1": "green",
+                    "description": "Slot Scene Background (Design)",
+                    "image": "Img_and_icons/heroes3.jpg"
+                  },
+                  {
+                    "color-1": "green",
+                    "description": "Width property error in console (Ch",
+                    "image": "Img_and_icons/heroes3.jpg"
+                  },
+                  {
+                    "color-1": "green",
+                    "description": "Feature LockedTile",
+                    "image": "Img_and_icons/heroes3.jpg"
+                  },
+                  {
+                    "color-1": "green",
+                    "description": "Code review #API",
+                    "image": "Img_and_icons/heroes3.jpg"
+                  }
+                ]
+  }
+]  
